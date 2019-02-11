@@ -1,4 +1,4 @@
-
+/****** poznamka vychozi soubor Leafletu ******/
 import {version} from '../package.json';
 export {version};
 
